@@ -1,0 +1,8 @@
+# MacOS Stuff
+.DS_Store
+
+# Jupyter Notebook Stuff
+.ipynb_checkpoints/
+
+# Large csv files
+*.csv
